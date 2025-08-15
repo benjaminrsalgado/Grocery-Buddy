@@ -1,4 +1,4 @@
-# 🛒 Grocery List – SwiftUI App
+# 🛒 Grocery List app
 
 A **beautifully designed SwiftUI app** to keep track of grocery items in a clean, Apple-like interface.  
 Mark items as completed with a single tap and watch smooth animations bring your list to life.
